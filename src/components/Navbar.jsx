@@ -41,7 +41,7 @@ const Navbar = () => {
                         <Link to='/' style={{ color: 'black',fontStyle:'italic' ,fontSize:'37px'}}>BitPrime</Link>
                     </Typography.Title>
 
-                    <Button className='menu-control-container' onClick={() => setActiveMenu(!activeMenu)}>
+                    <Button className='menu-control-container' onClick={() => setActiveMenu(!activeMenu) }>
                         <MenuOutlined />
                     </Button>
                 </div>
