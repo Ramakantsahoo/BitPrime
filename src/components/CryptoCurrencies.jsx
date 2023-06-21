@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react'
 import Loader from './Loader'
 
 const CryptoCurrencies = ({ simplified }) => {
-  const count = simplified ? 10 : 150;
+  const count = simplified ? 10 : 200;
   const { data: cryptosList, isFetching } = useGetCryptosQuery(count);
   const [cryptos, setCryptos] = useState(cryptosList?.data?.coins);
   const [searchTerm, setSearchTerm] = useState('')
