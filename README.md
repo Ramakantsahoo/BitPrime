@@ -1,6 +1,6 @@
 # BitPrime
 
-BitPrime is a React.js-based platform designed to provide users with information related to cryptocurrencies. It offers features such as viewing market cap, line charts, current prices, daily changes, and news articles about cryptocurrencies. The platform utilizes the Ant Design library for its user interface design and integrates the Coinranking API from RapidAPI for cryptocurrency data and the Bing News API from RapidAPI for cryptocurrency news.
+BitPrime is a React.js-based platform designed to provide users with information related to cryptocurrencies. It offers features such as viewing market cap, line charts, current prices, daily changes, news articles about cryptocurrencies etc. The platform utilizes the Ant Design library for its user interface design and integrates the Coinranking API from RapidAPI for cryptocurrency data and the Bing News API from RapidAPI for cryptocurrency news.
 
 ## Technologies Used
 
