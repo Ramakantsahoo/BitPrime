@@ -2,7 +2,6 @@ import React from 'react'
 import { Button, Menu, Typography, Avatar } from 'antd'
 import { Link } from 'react-router-dom'
 import { HomeOutlined, MoneyCollectOutlined, BulbOutlined, FundOutlined, MenuOutlined ,AlertOutlined} from '@ant-design/icons'
-import icon from '../Images/crypto.png'
 import { Checkbox, ConfigProvider } from 'antd';
 import { useState, useEffect } from 'react'
 
