@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# BitPrime
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+BitPrime is a React.js-based platform designed to provide users with information related to cryptocurrencies. It offers features such as viewing market cap, line charts, current prices, daily changes, news articles about cryptocurrencies etc. The platform utilizes the Ant Design library for its user interface design and integrates the Coinranking API from RapidAPI for cryptocurrency data and the Bing News API from RapidAPI for cryptocurrency news.
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+* **React.js**: BitPrime is built using React.js, a popular JavaScript library for building user interfaces. React's component-based architecture enables modular and reusable code. <br>
 
-### `npm start`
+* **Ant Design**: The platform utilizes Ant Design, a powerful and customizable design system and component library for React. It provides pre-built UI components and a cohesive design language for a consistent and visually appealing user interface. <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Coinranking API**: BitPrime integrates the Coinranking API from RapidAPI to retrieve cryptocurrency data. This API provides access to various endpoints, including market cap, price, and historical data. <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **Bing News API**: For fetching news articles related to cryptocurrencies, BitPrime uses the Bing News API from RapidAPI. This API enables the platform to provide up-to-date news and relevant information to users. <br>
 
-### `npm test`
+## Contribution
+Contributions to BitPrime are welcome! If you find any bugs, have suggestions for new features, or would like to contribute in any other way, please feel free to open an issue or submit a pull request.<br> When contributing, please ensure that you follow the existing code style, write meaningful commit messages, and provide appropriate documentation for your changes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Acknowledgments
 
-### `npm run build`
+* Rapid API for providing Coinranking API and BingNews API which provides required data for this website.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Deployed Link
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://bitprime.netlify.app
