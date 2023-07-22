@@ -13,7 +13,7 @@ BitPrime is a React.js-based platform designed to provide users with information
 * **Bing News API**: For fetching news articles related to cryptocurrencies, BitPrime uses the Bing News API from RapidAPI. This API enables the platform to provide up-to-date news and relevant information to users. <br>
 
 ## Contribution
-Contributions to BitPrime are welcome! If you find any bugs, have suggestions for new features, or would like to contribute in any other way, please feel free to open an issue or submit a pull request.<br> When contributing, please ensure that you follow the existing code style, write meaningful commit messages, and provide appropriate documentation for your changes.
+Contributions to BitPrime are welcome! If you find any bugs, have suggestions for new features, or would like to contribute in any other way, please feel free to open an issue or submit a pull request.<br> When contributing, please ensure that you follow the existing code style, write meaningful commit messages, and provide appropriate documentation for your changes. 
 
 ## Acknowledgments
 
